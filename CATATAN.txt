@@ -1,0 +1,13 @@
+cara install vue :
+- npm install -g @vue/cli
+- vue create my-project
+- cd my-project
+- npm run serve
+
+cara install bootstrap 5
+- npm install bootstrap@next
+- npm install jquery
+- npm install @popperjs/core
+- npm i sweetalert2 axios
+
+vue fungsi :
